@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @onkarf1
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on Coding
+- 👀 I’m interested in machine learning and artificial intelligence.
+- 🌱 I’m currently learning Coding.
+- 💞️ I’m looking to collaborate for hackathon.
 - 📫 How to reach me: mail:onkarfalle831@gmail.com 
 
 <!---
